@@ -4,4 +4,4 @@ While the repository is not publicly accessible at this time, the undersigned an
 
  My programming parts from my Ph.d. research:
 
-Codes of thesis and related papers: Ghosh 2021, Ghosh 2022
+Codes of thesis and related papers: Within Ghosh Thesis: Ghosh 2021, Ghosh 2022
