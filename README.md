@@ -4,4 +4,6 @@ While the repository is not publicly accessible at this time, the undersigned an
 
  My programming parts from my Ph.d. research:
 
-Codes of thesis and related papers: Within Ghosh Thesis: Ghosh 2021, Ghosh 2022
+Codes of thesis and related papers: Within Ghosh Thesis: Ghosh 2021, Ghosh 2022, Ghosh 2023 (Revised and under review), Ghosh 2025 (currently private, under review in Ecological Modelling)
+
+Codes from my IIASA work: 
