@@ -1,8 +1,8 @@
 This repository contains code and data developed for both published and ongoing research projects. At present, access to the contents of this repository is partly restricted and provided only on a private basis. This measure is taken to prevent potential conflicts or breaches of trust involving collaborators, supervisors, and other affiliated research personnel, particularly concerning unpublished or in-progress materials. 
 
-While not all the codes in the repository are publicly accessible at this time, the majority of my resaerch collaborators adhere to the principles of open science. Accordingly, selected portions of the private codebase and demonstrable research outputs that are not subject to active collaboration restrictions may be made available upon request.
+While not all the codes in the repository are publicly accessible at this time, the majority of my research collaborators adhere to the principles of open science. Accordingly, selected portions of the private codebase and demonstrable research outputs that are not subject to active collaboration restrictions may be made available upon request.
 
- My programming parts from my Ph.d. research:
+My programming parts from my Ph.D. research:
 
 Codes of thesis and related papers: Within Ghosh Thesis: Ghosh 2021, Ghosh 2022, Ghosh 2023 (Revised and under review), Ghosh 2025 (currently private, under review in Ecological Modelling)
 
