@@ -1,8 +1,4 @@
-diff --git a/README.md b/README.md
-index dbc41363eecdfe9f308d216231a55005e7292fd1..df20065010c0fc07dfa3fa130ccd4d214cd7ed51 100644
---- a/README.md
-+++ b/README.md
-@@ -1,191 +1,86 @@
+
  <div align="center">
  
  # Dr. Sinchan Ghosh
